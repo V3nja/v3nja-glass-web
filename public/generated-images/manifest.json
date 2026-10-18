@@ -1,0 +1,182 @@
+{
+  "description": "AI-generated VAW LYNE images only. Uploaded identity and style-reference images are intentionally excluded.",
+  "public_base_path": "/generated-images/",
+  "image_count": 35,
+  "images": [
+    {
+      "set": "curvier-set",
+      "filename": "vaw-lyne-curvier-01-beach-scarf.jpg",
+      "path": "/generated-images/curvier-set/vaw-lyne-curvier-01-beach-scarf.jpg"
+    },
+    {
+      "set": "curvier-set",
+      "filename": "vaw-lyne-curvier-02-beach-crochet.jpg",
+      "path": "/generated-images/curvier-set/vaw-lyne-curvier-02-beach-crochet.jpg"
+    },
+    {
+      "set": "curvier-set",
+      "filename": "vaw-lyne-curvier-03-car-pink.jpg",
+      "path": "/generated-images/curvier-set/vaw-lyne-curvier-03-car-pink.jpg"
+    },
+    {
+      "set": "curvier-set",
+      "filename": "vaw-lyne-curvier-04-car-pink-wrap.jpg",
+      "path": "/generated-images/curvier-set/vaw-lyne-curvier-04-car-pink-wrap.jpg"
+    },
+    {
+      "set": "curvier-set",
+      "filename": "vaw-lyne-curvier-05-red-top.jpg",
+      "path": "/generated-images/curvier-set/vaw-lyne-curvier-05-red-top.jpg"
+    },
+    {
+      "set": "curvier-set",
+      "filename": "vaw-lyne-curvier-06-beige-fit.jpg",
+      "path": "/generated-images/curvier-set/vaw-lyne-curvier-06-beige-fit.jpg"
+    },
+    {
+      "set": "curvier-set",
+      "filename": "vaw-lyne-curvier-07-white-dress.jpg",
+      "path": "/generated-images/curvier-set/vaw-lyne-curvier-07-white-dress.jpg"
+    },
+    {
+      "set": "curvier-set",
+      "filename": "vaw-lyne-curvier-08-white-swim.jpg",
+      "path": "/generated-images/curvier-set/vaw-lyne-curvier-08-white-swim.jpg"
+    },
+    {
+      "set": "curvier-set",
+      "filename": "vaw-lyne-curvier-09-facefixed.jpg",
+      "path": "/generated-images/curvier-set/vaw-lyne-curvier-09-facefixed.jpg"
+    },
+    {
+      "set": "next-12",
+      "filename": "01-satin-bedroom.jpg",
+      "path": "/generated-images/next-12/01-satin-bedroom.jpg"
+    },
+    {
+      "set": "next-12",
+      "filename": "02-silver-night.jpg",
+      "path": "/generated-images/next-12/02-silver-night.jpg"
+    },
+    {
+      "set": "next-12",
+      "filename": "03-sunset-white.jpg",
+      "path": "/generated-images/next-12/03-sunset-white.jpg"
+    },
+    {
+      "set": "next-12",
+      "filename": "04-tennis.jpg",
+      "path": "/generated-images/next-12/04-tennis.jpg"
+    },
+    {
+      "set": "next-12",
+      "filename": "05-sunset-fashion.jpg",
+      "path": "/generated-images/next-12/05-sunset-fashion.jpg"
+    },
+    {
+      "set": "next-12",
+      "filename": "06-teal-editorial.jpg",
+      "path": "/generated-images/next-12/06-teal-editorial.jpg"
+    },
+    {
+      "set": "next-12",
+      "filename": "07-pink-tailored.jpg",
+      "path": "/generated-images/next-12/07-pink-tailored.jpg"
+    },
+    {
+      "set": "next-12",
+      "filename": "08-bust-portrait.jpg",
+      "path": "/generated-images/next-12/08-bust-portrait.jpg"
+    },
+    {
+      "set": "next-12",
+      "filename": "09-studio-blue.jpg",
+      "path": "/generated-images/next-12/09-studio-blue.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "01-satin-bed.jpg",
+      "path": "/generated-images/original-12/01-satin-bed.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "02-silver-satin.jpg",
+      "path": "/generated-images/original-12/02-silver-satin.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "03-sunset-white-dress.jpg",
+      "path": "/generated-images/original-12/03-sunset-white-dress.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "04-tennis-look.jpg",
+      "path": "/generated-images/original-12/04-tennis-look.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "05-sunset-fashion.jpg",
+      "path": "/generated-images/original-12/05-sunset-fashion.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "06-teal-editorial.jpg",
+      "path": "/generated-images/original-12/06-teal-editorial.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "07-pink-tailored.jpg",
+      "path": "/generated-images/original-12/07-pink-tailored.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "08-bust-portrait.jpg",
+      "path": "/generated-images/original-12/08-bust-portrait.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "09-studio-white-pink.jpg",
+      "path": "/generated-images/original-12/09-studio-white-pink.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "10-white-pink-studio.jpg",
+      "path": "/generated-images/original-12/10-white-pink-studio.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "11-teal-closeup.jpg",
+      "path": "/generated-images/original-12/11-teal-closeup.jpg"
+    },
+    {
+      "set": "original-12",
+      "filename": "12-black-pink-wrap.jpg",
+      "path": "/generated-images/original-12/12-black-pink-wrap.jpg"
+    },
+    {
+      "set": "portraits",
+      "filename": "vaw-lyne-closeup-generated.jpg",
+      "path": "/generated-images/portraits/vaw-lyne-closeup-generated.jpg"
+    },
+    {
+      "set": "portraits",
+      "filename": "vaw-lyne-head-to-waist-generated.jpg",
+      "path": "/generated-images/portraits/vaw-lyne-head-to-waist-generated.jpg"
+    },
+    {
+      "set": "sauna",
+      "filename": "vaw-lyne-sauna-closeup.jpg",
+      "path": "/generated-images/sauna/vaw-lyne-sauna-closeup.jpg"
+    },
+    {
+      "set": "sauna",
+      "filename": "vaw-lyne-sauna-head-to-waist.jpg",
+      "path": "/generated-images/sauna/vaw-lyne-sauna-head-to-waist.jpg"
+    },
+    {
+      "set": "sauna",
+      "filename": "vaw-lyne-sauna-scene.jpg",
+      "path": "/generated-images/sauna/vaw-lyne-sauna-scene.jpg"
+    }
+  ]
+}
