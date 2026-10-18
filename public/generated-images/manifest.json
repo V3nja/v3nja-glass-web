@@ -1,8 +1,18 @@
 {
   "description": "AI-generated VAW LYNE images only. Uploaded identity and style-reference images are intentionally excluded.",
   "public_base_path": "/generated-images/",
-  "image_count": 35,
+  "image_count": 37,
   "images": [
+    {
+      "set": "carousel-8",
+      "filename": "01-crosslegged-teal-trousers.jpg",
+      "path": "/generated-images/carousel-8/01-crosslegged-teal-trousers.jpg"
+    },
+    {
+      "set": "carousel-8",
+      "filename": "02-standing-teal-jumpsuit.jpg",
+      "path": "/generated-images/carousel-8/02-standing-teal-jumpsuit.jpg"
+    },
     {
       "set": "curvier-set",
       "filename": "vaw-lyne-curvier-01-beach-scarf.jpg",
