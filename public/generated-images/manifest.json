@@ -1,7 +1,7 @@
 {
   "description": "AI-generated VAW LYNE images only. Uploaded identity and style-reference images are intentionally excluded.",
   "public_base_path": "/generated-images/",
-  "image_count": 37,
+  "image_count": 45,
   "images": [
     {
       "set": "carousel-8",
@@ -57,6 +57,46 @@
       "set": "curvier-set",
       "filename": "vaw-lyne-curvier-09-facefixed.jpg",
       "path": "/generated-images/curvier-set/vaw-lyne-curvier-09-facefixed.jpg"
+    },
+    {
+      "set": "grass-picnic-orange-blue-8",
+      "filename": "01-reclining-grass-pose.jpg",
+      "path": "/generated-images/grass-picnic-orange-blue-8/01-reclining-grass-pose.jpg"
+    },
+    {
+      "set": "grass-picnic-orange-blue-8",
+      "filename": "02-medium-reclined-portrait.jpg",
+      "path": "/generated-images/grass-picnic-orange-blue-8/02-medium-reclined-portrait.jpg"
+    },
+    {
+      "set": "grass-picnic-orange-blue-8",
+      "filename": "03-close-up-orange-beadwork.jpg",
+      "path": "/generated-images/grass-picnic-orange-blue-8/03-close-up-orange-beadwork.jpg"
+    },
+    {
+      "set": "grass-picnic-orange-blue-8",
+      "filename": "04-fingers-bracelets-on-cloth.jpg",
+      "path": "/generated-images/grass-picnic-orange-blue-8/04-fingers-bracelets-on-cloth.jpg"
+    },
+    {
+      "set": "grass-picnic-orange-blue-8",
+      "filename": "05-ear-and-hair-profile.jpg",
+      "path": "/generated-images/grass-picnic-orange-blue-8/05-ear-and-hair-profile.jpg"
+    },
+    {
+      "set": "grass-picnic-orange-blue-8",
+      "filename": "06-legs-and-feet-detail.jpg",
+      "path": "/generated-images/grass-picnic-orange-blue-8/06-legs-and-feet-detail.jpg"
+    },
+    {
+      "set": "grass-picnic-orange-blue-8",
+      "filename": "07-full-figure-back-three-quarter.jpg",
+      "path": "/generated-images/grass-picnic-orange-blue-8/07-full-figure-back-three-quarter.jpg"
+    },
+    {
+      "set": "grass-picnic-orange-blue-8",
+      "filename": "08-high-angle-seated-picnic.jpg",
+      "path": "/generated-images/grass-picnic-orange-blue-8/08-high-angle-seated-picnic.jpg"
     },
     {
       "set": "next-12",
